@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voc Developer </title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <<script src="https://kit.fontawesome.com/17679d0f40.js" crossorigin="anonymous">
+        </script>
+        <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <header>
+
+        <main role="main" class="inner cover" id="saiba">
+            <h1 class="cover-heading">
+                <img class="foto-perfil " src="vocperfil.jpg" alt="Vocwallpeper" id="vocwall"></br>Welcome</h1>
+            <p class="lead">
+                </br>
+
+                </br>
+
+            </p>
+        </main>
+    </header>
+
+    <section>
+        <div>
+            <div class="container marketing">
+
+                <!-- Three columns of text below the carousel -->
+
+                <hr class="featurette-divider">
+
+                <div class="row featurette">
+                    <div class="col-md-7" id=" textoprimario">
+                        <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow
+                                your mind.</span></h2>
+                        <p class="lead" id=" color">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id
+                            ligula porta
+                            felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce
+                            dapibus, tellus ac cursus commodo.</p>
+                    </div>
+                    <div class="col-md-5">
+                        <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                            style="width: 500px; height: 500px;" src="qualquerfoto.jpg" data-holder-rendered="true">
+                    </div>
+                </div>
+
+                <hr class="featurette-divider">
+
+                <div class="row featurette">
+                    <div class="col-md-7 order-md-2" id="color2">
+                        <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for
+                                yourself.</span></h2>
+                        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta
+                            felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce
+                            dapibus, tellus ac cursus commodo.</p>
+                    </div>
+                    <div class="col-md-5 order-md-1">
+                        <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                            src="qualquerfoto.jpg" style="width: 500px; height: 500px;">
+                    </div>
+                </div>
+
+                <hr class="featurette-divider">
+
+                <!--<div class="row featurette">
+                    <div class="col-md-7">
+                        <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span>
+                        </h2>
+                        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta
+                            felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce
+                            dapibus, tellus ac cursus commodo.</p>
+                    </div>
+                </div>-->
+
+                <hr class="featurette-divider">
+
+                <!-- /END THE FEATURETTES -->
+
+            </div>
+
+        </div>
+        <div>
+
+        </div>
+        <p class="lead" id="bot">
+
+            <a href="/paginas/indexpg1.html" class="btn btn-dark my 2" id="botao">Saber mais</a>
+            <a href="/paginas/indexpg2.html" class="btn btn-dark my 2" id="botao">Entrar em Contato </a></br>
+            <a href=""><i class="fab fa-github"></i> </a>
+            <a href=""><i class="fab fa-facebook"></i></a>
+            <a href=""><i class="fab fa-instagram"></i></a>
+        </p>
+
+    </section>
+    <footer id="rodape">
+
+        <p><em> Copyright &copy; 2020 VocDeveloper</em></p>
+
+    </footer>
+
+</body>
+
+</html>

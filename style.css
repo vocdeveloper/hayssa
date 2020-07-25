@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+#navbar{
+    color: blanchedalmond;
+    font-size: 25;
+}
+#kali{
+    color: blanchedalmond;
+}
+#saiba{
+    margin-top: auto;
+    margin-left: auto;
+    text-align: center;
+    color: white;
+}
+#rodape{
+    margin-top: auto;
+    margin-left: auto;
+    text-align: center;
+    color: white;
+}
+#vocwall{
+    align-items: center;
+    
+}
+#menu{
+    color: blanchedalmond;
+}
+#bot{
+    text-align: center;
+}
+#html{
+    padding-top: 35px;
+}
+.col-md-7{
+    color: blanchedalmond;
+}
